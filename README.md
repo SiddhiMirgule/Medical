@@ -452,18 +452,5 @@ The system is not a medical device and should not be used as a substitute for pr
 
 Always consult qualified healthcare professionals for medical decisions.
 
-License
-
-MIT License
-
-Future Roadmap
-Multi-modal medical retrieval
-Medical image support
-Clinical trial integration
-Real-time guideline updates
-Federated medical knowledge indexing
-Citation graph analysis
-Automated evidence synthesis
-Multi-agent medical review workflows
 
 MedVerify AI — Building Trustworthy, Explainable, and Evidence-Grounded Medical AI.
