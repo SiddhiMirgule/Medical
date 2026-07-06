@@ -79,7 +79,7 @@ async def require_admin(
     Validate that the current user has the 'admin' role.
     Raises HTTP 403 if not.
     """
-    from app.repositories.user import UserRepository
+    from app.repositories import UserRepository
 
     repo = UserRepository(db)
     user = await repo.get_by_id(current_user_id)
